@@ -12,7 +12,7 @@ const About = () => {
         height={500}
         className=" object-cover object-center rounded mx-auto w-[300px] h-[300px]"
         alt="hero"
-        src={"/picture/waqas.JPG"}
+        src={"/picture/waqas.png"}
       />
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
@@ -42,3 +42,4 @@ const About = () => {
 }
 
 export default About
+
