@@ -24,7 +24,7 @@ const Skill = () => {
                
             </div>
             <h2 className="text-gray-900 text-lg title-font font-medium">
-              HTML5
+              OpenAI Agent SDK Kit
             </h2>
           </div>
           <div className="flex-grow">
@@ -45,7 +45,7 @@ const Skill = () => {
                
             </div>
             <h2 className="text-gray-900 text-lg title-font font-medium">
-              CSS5
+              Agentic AI
             </h2>
           </div>
           <div className="flex-grow">
@@ -66,75 +66,12 @@ const Skill = () => {
                
             </div>
             <h2 className="text-gray-900 text-lg title-font font-medium">
-              JavaScript
+              Specifyplus kit & Rag chotbot
             </h2>
           </div>
           <div className="flex-grow">
             <div className='relative h-1 w-full bg-gray-300 rounded'>
                 <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
-            <p className='font-bold text-blue-700 text-right'>100%</p>
-            </div>
-            
-          </div>
-        </div>
-      </div>
-          {/* Skills */}
-          <div className="p-4 w-[100%] md:w-1/3">
-        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
-          <div className="flex items-center mb-3">
-            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
-            <AiOutlineCheckSquare className="text-xl font-bold" />
-               
-            </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
-              TypeScript
-            </h2>
-          </div>
-          <div className="flex-grow">
-            <div className='relative h-1 w-full bg-gray-300 rounded'>
-                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
-            <p className='font-bold text-blue-700 text-right'>100%</p>
-            </div>
-            
-          </div>
-        </div>
-      </div>
-        {/* Skills */}
-        <div className="p-4 w-[100%] md:w-1/3">
-        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
-          <div className="flex items-center mb-3">
-            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
-            <AiOutlineCheckSquare className="text-xl font-bold" />
-               
-            </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
-              Java
-            </h2>
-          </div>
-          <div className="flex-grow">
-            <div className='relative h-1 w-full bg-gray-300 rounded'>
-                <div className='absolute h-1 w-[60%] bg-blue-800 rounded '></div>
-            <p className='font-bold text-blue-700 text-right'>100%</p>
-            </div>
-            
-          </div>
-        </div>
-      </div>
-          {/* Skills */}
-          <div className="p-4 w-[100%] md:w-1/3">
-        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
-          <div className="flex items-center mb-3">
-            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
-            <AiOutlineCheckSquare className="text-xl font-bold" />
-               
-            </div>
-            <h2 className="text-gray-900 text-lg title-font font-medium">
-              Python
-            </h2>
-          </div>
-          <div className="flex-grow">
-            <div className='relative h-1 w-full bg-gray-300 rounded'>
-                <div className='absolute h-1 w-[70%] bg-blue-800 rounded '></div>
             <p className='font-bold text-blue-700 text-right'>100%</p>
             </div>
             
@@ -162,6 +99,27 @@ const Skill = () => {
           </div>
         </div>
       </div>
+        {/* Skills */}
+        <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Vue2 & React
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[60%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
           {/* Skills */}
           <div className="p-4 w-[100%] md:w-1/3">
         <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
@@ -171,7 +129,175 @@ const Skill = () => {
                
             </div>
             <h2 className="text-gray-900 text-lg title-font font-medium">
-              Digital Marketer
+              Mcp server
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[70%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+          {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Claude cli , Gemini Cli ,Qwen cli
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              JavaScript & TypeScript
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Nodejs 
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              SQL & MongoDB
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Claude cli , Gemini Cli ,Qwen cli
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Docker & Docker Composer
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+                {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Kubernates
+            </h2>
+          </div>
+          <div className="flex-grow">
+            <div className='relative h-1 w-full bg-gray-300 rounded'>
+                <div className='absolute h-1 w-[80%] bg-blue-800 rounded '></div>
+            <p className='font-bold text-blue-700 text-right'>100%</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+          {/* Skills */}
+          <div className="p-4 w-[100%] md:w-1/3">
+        <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+          <div className="flex items-center mb-3">
+            <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+            <AiOutlineCheckSquare className="text-xl font-bold" />
+               
+            </div>
+            <h2 className="text-gray-900 text-lg title-font font-medium">
+              Python
             </h2>
           </div>
           <div className="flex-grow">
@@ -192,7 +318,7 @@ const Skill = () => {
                
             </div>
             <h2 className="text-gray-900 text-lg title-font font-medium">
-              FrontEnd-Developer
+              FastApi
             </h2>
           </div>
           <div className="flex-grow">
@@ -218,3 +344,4 @@ const Skill = () => {
 }
 
 export default Skill
+
