@@ -20,10 +20,7 @@ const About = () => {
         About Me
       </h1>
       <p className="mb-5 leading-relaxed">
-        I am a Software Engineer. I have good hand on front-end development.
-        I am also good in different languages like Java,Python,JavaScript and TypeScript.
-        I am also in mySql. My other Skill are Digital Marketer. I can handle the social media account,
-        Google ads,Facebook Ads,SEO and Shopify.
+       I am an Agentic AI Developer and Software Engineer specializing in building intelligent AI systems, including chatbots, workflow automation, and Retrieval-Augmented Generation (RAG) solutions. I have hands-on experience with AI frameworks, LLM integrations, and data-driven applications using Python and modern AI tools. Alongside AI development, I have strong expertise in front-end development using JavaScript and TypeScript, and experience working with databases like MySQL. I also have a background in digital marketing, managing social media accounts, Google Ads, Facebook Ads, SEO, and Shopify, which helps me build technology that delivers real business impact.
 
       </p>
       <div className="flex justify-center">
@@ -42,4 +39,5 @@ const About = () => {
 }
 
 export default About
+
 
