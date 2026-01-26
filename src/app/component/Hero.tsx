@@ -15,7 +15,7 @@ const Hero = () => {
         {/* typewriter effect */}
         <Typewriter
             options={{
-            strings: ['Software Engineer', 'FrontEnd Developer','Digital marketer'],
+            strings: ['AI Engineer',"Agentic AI Developer",'FrontEnd Developer',"Software Engineer"],
             autoStart: true,
             loop: true,
         }}
@@ -25,10 +25,7 @@ const Hero = () => {
 
       </div>
       <p className="mb-8 leading-relaxed ">
-        Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-        plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk
-        tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard
-        chambray.
+      I am an Agentic AI Developer, AI Engineer, and Software Engineer with a strong focus on building intelligent, scalable, and user-centric applications. I specialize in developing AI-driven systems and modern frontend experiences using tools like Python, JavaScript, React, Next.js, and AI frameworks. I enjoy turning complex ideas into practical, high-impact solutions.
       </p>
       <div className="flex justify-center">
         <Link href={'#Contact'}>
@@ -54,4 +51,5 @@ const Hero = () => {
 }
 
 export default Hero
+
 
