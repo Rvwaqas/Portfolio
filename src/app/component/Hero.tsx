@@ -43,7 +43,7 @@ const Hero = () => {
       alt='Herro'
       width={300}
       height={500}
-      src={"/picture/waqas.JPG"}
+      src={"/picture/waqas.png"}
       />
     </div>
   </div>
@@ -54,3 +54,4 @@ const Hero = () => {
 }
 
 export default Hero
+
