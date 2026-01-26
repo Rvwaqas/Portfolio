@@ -21,7 +21,7 @@ const Navbar = () => {
       <Link href={"#project"} className="mr-5 hover:text-gray-900">Projects</Link>
       <Link href={"#Contact"} className="mr-5 hover:text-gray-900">Contact</Link>
     </nav>
-    <a href="/picture/SoftwareCVwaqas.pdf"> 
+    <a href="/picture/MyResume.pdf"> 
     <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
         Download CV
       <MdOutlineCloudDownload className='text-lg ml-2' />
@@ -34,4 +34,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
 
